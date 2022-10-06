@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @korcadr
 - 👀 I’m interested in wall climbing
-- 🌱 I’m currently learning emotional intelligence
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ..., google me
+- 🌱 I’m currently reading "Master and His Emissary"
+- 💞️ I’m looking for weekend to start
 
 <!---
 korcadr/korcadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
