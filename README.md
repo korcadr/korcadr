@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korcadr
 - 👀 I’m interested in wall climbing
-- 🌱 I’m currently reading "Master and His Emissary"
+- 🌱 I’m currently singing
 - 💞️ I’m looking for weekend to start
 
 <!---
