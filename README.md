@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @korcadr
-- 👀 I’m interested in wall climbing
-- 🌱 I’m currently singing
-- 💞️ I’m looking for weekend to start
+- 👀 I’m interested if Roland will reach the dark tower. Additionally, how it compares to LOTR.
+- 🌱 I’m currently on adventure.
+- 💞️ I’m looking for love and adventure.
 
 <!---
 korcadr/korcadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
