@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korcadr
-- 👀 I’m interested if Roland will reach the dark tower. Additionally, how it compares to LOTR.
+- 👀 I’m interested if Roland will reach the dark tower. Additionally, how does this series compare to witcher or lotr?.
 - 🌱 I’m currently on adventure.
 - 💞️ I’m looking for love and adventure.
 
